@@ -31,4 +31,4 @@
 
 ### Проект размещён на [GitHub](https://github.com/)
 
-Присутствуют баги
+From Russia with bugs
