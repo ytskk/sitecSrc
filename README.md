@@ -1,1 +1,1 @@
-# [Попробовать](https://ytskk.github.io/PasswordGenerator/)
+[Попробовать](https://ytskk.github.io/PasswordGenerator/)
