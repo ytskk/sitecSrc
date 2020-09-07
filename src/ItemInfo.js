@@ -46,7 +46,7 @@ const ItemInfo = ({ close, el }) => {
         console.log('Item rerendered')
         return setItem(itemI)
       })
-  })
+  }, [])
   return (
     <div className='itemInfo'>
       <div className='itemInfo__topbar'>
