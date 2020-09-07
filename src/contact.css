@@ -1,0 +1,81 @@
+.contactPage {
+    margin-top: 3px;
+    padding-bottom: 50px;
+}
+.text {
+    font-size: 16px;
+    line-height: 16px;
+    margin-right: 7px;
+}
+.typeOfContact {
+    margin-left: 70px;
+}
+.typeBox {
+    display: flex;
+    place-items: center;
+    margin: 40px 0;
+}
+.tel {
+    text-decoration: none;
+}
+.chatMessage {
+    width: 211px;
+    display: flex;
+    position: relative;
+    align-items: center;
+    margin: 40px 0;
+
+    background: #E38B9B;
+    border-radius: 1px 10px 10px 10px;
+}
+
+.preText {
+    color: #fff;
+    padding: 9px;
+    font-size: 14px;
+    line-height: 14px;
+}
+.currTime {
+    font-size: 12px;
+    line-height: 12px;
+    font-weight: 350;
+    color: #fff;
+    position: absolute;
+    right: 15px;
+    bottom: 5px;
+}
+
+.contactList {
+    list-style-type: none;
+    display: flex;
+    justify-content: space-between;
+    width: 450px;
+}
+.contactList li {
+    cursor: pointer;
+    display: flex;
+    place-items: center;
+    transition: 0.35s ease-in-out;
+}
+.contactList a{
+    border-radius: 50%;
+    overflow: hidden;
+    display: flex;
+    place-items: center;
+
+    width: 50px;
+    height: 50px;
+}
+.contactList svg {
+    margin: auto auto;
+    width: 35px;
+    height: 35px;
+    color: white;
+}
+.contactList li:hover {
+    transform: scale(1.15);
+}
+
+.icon {
+    color: white;
+}
