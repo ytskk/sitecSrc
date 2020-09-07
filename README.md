@@ -34,3 +34,5 @@
 ### Проект размещён на [GitHub](https://github.com/)
 
 From Russia with bugs
+
+В разделе About была красивая картинка [Вот такая](https://ibb.co/C5GgQv1), но куда-то пропала :(
